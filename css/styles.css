@@ -170,7 +170,7 @@ img {
     url(../images/hero.jpg);
   background-position: center;
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: contain;
   min-width: 1600px;
 }
 
