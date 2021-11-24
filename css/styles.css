@@ -331,13 +331,8 @@ img {
   color: var(--primary-color);
 }
 
-.social-link:hover .social-icon,
-.social-link:focus .social-icon {
-  fill: currentColor;
-}
-
 .social-icon {
-  fill: var(--svg-icon-color);
+  fill: currentColor;
 }
 
 .team-description {
